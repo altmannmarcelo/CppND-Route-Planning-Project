@@ -59,3 +59,9 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 
+## CMake
+
+```
+cmake -DCMAKE_PREFIX_PATH=/home/marcelo/Dropbox/Udacity/cpp_nanodegree/P0267_RefImpl/Debug/usr/local/lib/cmake/io2d/ ..
+```
+
